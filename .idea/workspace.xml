@@ -5,48 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c2be5a6-8f34-4cf3-87b2-6dc539163f9c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Images.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20230205-WA0004.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20230205-WA0005.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20230205-WA0007.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20230205-WA0008.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20230205-WA0010.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20230205-WA0011.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20230205-WA0012.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20230205-WA0013 - Copy - Copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20230205-WA0014.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20230205-WA0016.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20230205-WA0017.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20230205-WA0018.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20230205-WA0019.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20230205-WA0020.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20230205-WA0021.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20230205-WA0022 - Copy - Copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20230205-WA0022.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20230205-WA0023.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20230205-WA0024.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20230205-WA0025 - Copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20230205-WA0025.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20230205-WA0026.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20230205-WA0027 - Copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20230205-WA0027.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20230205-WA0028.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20230205-WA0031 - Copy - Copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img_9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/iphone.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/keki1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/keki2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/keki3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/keki4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/keki5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/nokia.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/redmi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/samsung.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tecno.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +36,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -100,7 +60,7 @@
       <workItem from="1673435980072" duration="823000" />
       <workItem from="1674727298028" duration="103000" />
       <workItem from="1674891583667" duration="3770000" />
-      <workItem from="1675760979340" duration="1020000" />
+      <workItem from="1675760979340" duration="1775000" />
     </task>
     <servers />
   </component>
