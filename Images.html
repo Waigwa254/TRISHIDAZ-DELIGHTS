@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="new.css">
+
+    <title>Document</title>
+</head>
+<body>
+<div class="container">
+    <hi>IMAGES</hi>
+    <div class="image-container">
+        <div class="image"><img src="img/IMG-20230205-WA0004.jpg" alt="" width="310" height="250"></div>
+        <div class="image"><img src="img/IMG-20230205-WA0005.jpg" alt="" width="310" height="250" ></div>
+        <div class="image"><img src="img/IMG-20230205-WA0007.jpg" alt="" width="310" height="250"></div>
+        <div class="image"><img src="img/IMG-20230205-WA0008.jpg" alt="" width="310" height="250"></div>
+        <div class="image"><img src="img/IMG-20230205-WA0010.jpg" alt="" width="310" height="250"></div>
+        <div class="image"><img src="img/IMG-20230205-WA0011.jpg" alt="" width="310" height="250"></div>
+        <div class="image"><img src="img/IMG-20230205-WA0012.jpg" alt="" width="310" height="250"></div>
+        <div class="image"><img src="img/IMG-20230205-WA0014.jpg" alt="" width="310" height="250"></div>
+        <div class="image"><img src="img/IMG-20230205-WA0016.jpg" alt="" width="310" height="250"></div>
+        <div class="image"><img src="img/IMG-20230205-WA0017.jpg" alt="" width="310" height="250"></div>
+        <div class="image"><img src="img/IMG-20230205-WA0018.jpg" alt="" width="310" height="250"></div>
+        <div class="image"><img src="img/IMG-20230205-WA0019.jpg" alt="" width="310" height="250" ></div>
+        <div class="image"><img src="img/IMG-20230205-WA0020.jpg" alt="" width="310" height="250"></div>
+        <div class="image"><img src="img/IMG-20230205-WA0021.jpg" alt="" width="310" height="250"></div>
+        <div class="image"><img src="img/IMG-20230205-WA0022.jpg" alt="" width="310" height="250"></div>
+        <div class="image"><img src="img/IMG-20230205-WA0023.jpg" alt="" width="310" height="250"></div>
+        <div class="image"><img src="img/IMG-20230205-WA0024.jpg" alt="" width="310" height="250"></div>
+        <div class="image"><img src="img/IMG-20230205-WA0025.jpg" alt="" width="310" height="250"></div>
+        <div class="image"><img src="img/IMG-20230205-WA0026.jpg" alt="" width="310" height="250"></div>
+        <div class="image"><img src="img/IMG-20230205-WA0027.jpg" alt="" width="310" height="250"></div>
+        <div class="image"><img src="img/IMG-20230205-WA0028.jpg" alt="" width="310" height="250"></div>
+    </div>
+    
+    <div class="popup-image">
+        <span>&times;</span>
+        <img src="img/keki2.jpg" alt="">
+        
+    </div>
+
+</div>
+<script>
+document.querySelectorAll('.image-container img').forEach(image  =>{
+    image.onclick = () =>{
+        document.querySelectorAll('.popup-image').display = 'block';
+        document.querySelectorAll('.popup-image img').src = image.getAttribute('src');
+
+    }
+});
+document.querySelector('.popup-image span').onclick =() =>{
+    document.querySelectorAll('.popup-image').style.display = 'block';
+
+}
+</script>
+
+</body>
+</html>
